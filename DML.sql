@@ -15,4 +15,3 @@ INSERT INTO tb_endereco (
     'SAO PAULO',
     'BRASIL',
     'METRO'
-);

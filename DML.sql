@@ -5,13 +5,13 @@ INSERT INTO tb_endereco (
     cep,
     bairro,
     cidade,
-    pais,
-    complemento
-) VALUES (
+    pais
+    )
+    VALUES (
     'RUA DA CONSOLACAO',
     4577,
     '01308000',
     'CONSOLACAO',
     'SAO PAULO',
-    'BRASIL',
-    'METRO'
+    'BRASIL'
+    );
